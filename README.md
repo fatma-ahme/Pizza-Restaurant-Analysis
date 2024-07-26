@@ -1,7 +1,7 @@
 # Pizza-Restaurant-Analysis
 ## Over View 📊 📈 
 
-### Analysis Pizza Restaurant  and showed : 🔎💡 
+## Analysis Pizza Restaurant  and showed : 🔎💡 
 - Found the total orders, total sales and total quantity through year. 
 
 - Top 10 type of pizza Most Sales the first of them The Thai Chicken Pizza .
@@ -14,4 +14,4 @@
 
 
 ## Report
-![]()
+![](https://github.com/fatma-ahme/Pizza-Restaurant-Analysis/blob/main/Report.PNG)
